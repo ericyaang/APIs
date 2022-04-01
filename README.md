@@ -1,6 +1,8 @@
 # API index
 
-## Brazilian public APIs
+## Brazilian APIs
+
+### Public
 
 - [IBGE](https://servicodados.ibge.gov.br/api/docs/)
 - [IPEA](http://www.ipeadata.gov.br/api/)
@@ -13,6 +15,10 @@
 - [Weather data](https://hgbrasil.com/status/weather)
 - [Emissão de boleto](https://boleto.cloud)
 
+
+### Private
+
+- [Ambina](https://developers.anbima.com.br)
 
 ## Public datasets
 
