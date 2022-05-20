@@ -15,16 +15,15 @@
 - [Weather data](https://hgbrasil.com/status/weather)
 - [Emissão de boleto](https://boleto.cloud)
 
-
 ### Private
 
 - [Ambina](https://developers.anbima.com.br)
 
 ## Public datasets
 
--[Google Dataset Search](https://datasetsearch.research.google.com/)
--[OpenML](https://www.openml.org/search?type=data)
--[Kaggle](https://www.kaggle.com/datasets)
--[UCI](https://archive.ics.uci.edu/ml/index.php)
--[Stateoftheart AI](https://www.stateoftheart.ai/datasets)
--[Papers With Code](https://paperswithcode.com/datasets)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [OpenML](https://www.openml.org/search?type=data)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [UCI](https://archive.ics.uci.edu/ml/index.php)
+- [Stateoftheart AI](https://www.stateoftheart.ai/datasets)
+- [Papers With Code](https://paperswithcode.com/datasets)
