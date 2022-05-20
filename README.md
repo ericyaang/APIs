@@ -14,6 +14,7 @@
 - [Tabela FIPE](https://deividfortuna.github.io/fipe/)
 - [Weather data](https://hgbrasil.com/status/weather)
 - [Emissão de boleto](https://boleto.cloud)
+- [Open Banking Brasil](https://openbanking-brasil.github.io/areadesenvolvedor/#introducao)
 
 ### Private
 
